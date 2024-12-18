@@ -1,9 +1,6 @@
 {
-    "bot_token": "YOUR_BOT_TOKEN",
-    "alert_channel_id": CHANNEL_ID,
-    "tag_role_id": ROLE_ID
-    "node_urls": [
-        "https://node1.example.com",
-        "https://node2.example.com"
-    ]
-}
+    "bot_token": "discord-tokend",
+    "command_channel_id": channel-id,
+    "alert_channel_id": alert-id,
+    "tag_role_id": admin-role-id
+}  
